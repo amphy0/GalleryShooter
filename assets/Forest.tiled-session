@@ -1,0 +1,71 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Background.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 2
+        },
+        "Background.json": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 63.66666666666667,
+                "y": 79.66666666666667
+            }
+        },
+        "Background.json#colored_tilemap_packed": {
+            "scaleInDock": 3
+        },
+        "Background.json#tilemap_packed": {
+            "scaleInDock": 3
+        },
+        "Background.tmx": {
+            "scale": 5.29625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 102.71418456455041,
+                "y": 157.6587207930139
+            }
+        },
+        "Background.tmx#colored_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "Background.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "colored_tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/amphy/OneDrive/Documents/GitHub/GalleryShooter/assets",
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 16,
+    "openFiles": [
+        "Background.tmx",
+        "Background.json"
+    ],
+    "project": "Forest.tiled-project",
+    "recentFiles": [
+        "Background.tmx",
+        "Background.json",
+        "colored_tilemap_packed.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    },
+    "tileset.useTransparentColor": true
+}
